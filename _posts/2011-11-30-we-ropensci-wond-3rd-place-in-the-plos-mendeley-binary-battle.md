@@ -3,6 +3,9 @@ layout: post
 title: We (rOpenSci) wond 3rd place in the PLoS-Mendeley Binary Battle!
 ---
 
+{{ page.title }}
+================
+
 We entered two of our packages for integrating with PLoS Journals (rplos) and Mendeley (RMendeley) in the [Mendeley-PLoS Binary Battle][one].  Get them at GitHub ([rplos][], [RMendeley][]).
 
 [We won third place][]!!  This gives us a $1,000 prize, plus a [Parrot AR Drone helicopter][two].

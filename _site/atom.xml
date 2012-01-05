@@ -4,7 +4,7 @@
  <title>Scott Chamberlain's Lab Notebook</title>
  <link href="http://schamberlain.github.com/labnotebook/atom.xml" rel="self"/>
  <link href="http://schamberlain.github.com/labnotebook/"/>
- <updated>2012-01-05T09:11:08-08:00</updated>
+ <updated>2012-01-05T09:16:47-08:00</updated>
  <id>schamberlain.github.com/labnotebook/</id>
  <author>
    <name>Scott Chamberlain</name>
@@ -17,8 +17,11 @@
    <link href="schamberlain.github.com/labnotebook/2011/11/30/we-ropensci-wond-3rd-place-in-the-plos-mendeley-binary-battle.html"/>
    <updated>2011-11-30T00:00:00-08:00</updated>
    <id>schamberlain.github.com/labnotebook/2011/11/30/we-ropensci-wond-3rd-place-in-the-plos-mendeley-binary-battle</id>
-   <content type="html">&lt;p&gt;We entered two of our packages for integrating with PLoS Journals (rplos) and Mendeley (RMendeley) in the &lt;a href=&quot;http://dev.mendeley.com/api-binary-battle&quot; target=&quot;_blank&quot;&gt;Mendeley-PLoS Binary Battle&lt;/a&gt;.  Get them at GitHub (&lt;a href=&quot;https://github.com/ropensci/rplos&quot; target=&quot;_blank&quot;&gt;rplos&lt;/a&gt;; &lt;a href=&quot;https://github.com/ropensci/RMendeley&quot; target=&quot;_blank&quot;&gt;RMendeley&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.mendeley.com/blog/design-research-tools/winners-of-the-first-binary-battle-apps-for-science-contest/&quot; target=&quot;_blank&quot;&gt;We won third place&lt;/a&gt;!!  This gives us a $1,000 prize, plus a &lt;a href=&quot;http://ardrone.parrot.com/parrot-ar-drone/uk/&quot; target=&quot;_blank&quot;&gt;Parrot AR Drone helicopter&lt;/a&gt;.&lt;/p&gt;</content>
+   <content type="html">&lt;p&gt;We entered two of our packages for integrating with PLoS Journals (rplos) and Mendeley (RMendeley) in the &lt;a href=&quot;http://dev.mendeley.com/api-binary-battle&quot;&gt;Mendeley-PLoS Binary Battle&lt;/a&gt;.  Get them at GitHub (&lt;a href=&quot;https://github.com/ropensci/rplos&quot;&gt;rplos&lt;/a&gt;, &lt;a href=&quot;https://github.com/ropensci/RMendeley&quot;&gt;RMendeley&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.mendeley.com/blog/design-research-tools/winners-of-the-first-binary-battle-apps-for-science-contest/&quot;&gt;We won third place&lt;/a&gt;!!  This gives us a $1,000 prize, plus a &lt;a href=&quot;http://ardrone.parrot.com/parrot-ar-drone/uk/&quot;&gt;Parrot AR Drone helicopter&lt;/a&gt;.&lt;/p&gt;
+
+</content>
  </entry>
  
  <entry>

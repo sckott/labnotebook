@@ -3,4 +3,4 @@ paginate: 5
 auto: true
 permalink: pretty
 disqus:
-   id: XXX
+   id: scln

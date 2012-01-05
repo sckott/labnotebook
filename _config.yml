@@ -1,2 +1,6 @@
-markdown: kramdown
-pygments: true
+url: http://schamberlain.github.com/labnotebook
+paginate: 5
+auto: true
+permalink: pretty
+disqus:
+   id: XXX

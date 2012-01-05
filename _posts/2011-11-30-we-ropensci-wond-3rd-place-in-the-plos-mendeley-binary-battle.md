@@ -1,10 +1,12 @@
 ---
 layout: post
 title: We (rOpenSci) wond 3rd place in the PLoS-Mendeley Binary Battle!
+author: Scott
+tag:
+- R
+- ropensci
 ---
 
-{{ page.title }}
-================
 
 We entered two of our packages for integrating with PLoS Journals (rplos) and Mendeley (RMendeley) in the [Mendeley-PLoS Binary Battle][one].  Get them at GitHub ([rplos][], [RMendeley][]).
 

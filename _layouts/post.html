@@ -1,15 +1,47 @@
----
+--- 
 layout: default
 ---
-<div id="post">
-{{ content }}
+
+<div class='sidebar'>
+
+	<div class='nav'>
+	{% include menu.html %}
+	</div>
+
+	<h2>About this post</h2>
+	<div class="metadata"><b>Written by</b> {{ page.author }}<br /><b>Posted on</b> {{ page.date | date_to_string }}{% if page.last_updated %}, last updated on {{ page.last_updated | date_to_string }}{% endif %}<br /><b>Summary:</b> {{ page.abstract }}{% if page.tags && page.tags != empty %}<br /><b>Tags:</b> {% for tag in page.tags %}<span class='tag'>{{ tag | array_to_sentence_string }}</span>{% endfor %}{% endif %}</div>
+	
+	<div id="related">
+	  <h2>Related Posts</h2>
+	  <ul class="posts">
+	    {% for post in site.related_posts limit:5 %}
+	      <li><code>{{ post.date | date_to_string }}</code> » <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+	    {% endfor %}
+	  </ul>
+	</div>
+	
 </div>
 
-<div id="related">
-  <h2>Related Posts</h2>
-  <ul class="posts">
-    {% for post in site.related_posts limit:3 %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+
+<div class='content'>
+<div class='blog_entry'>
+<h1>{{ page.title }}</h1>
+	{{ content }}
+</div>
+{% if site.disqus %}
+<div id="comments">
+  <h2>Comments</h2>
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+    var disqus_identifier = "{{ page.url }}";
+    (function() {
+     var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+     dsq.src = 'http://{{ site.disqus.id }}.disqus.com/embed.js';
+     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript={{ site.disqus.id }}">comments powered by Disqus.</a></noscript>
+  <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+{% endif %}
 </div>

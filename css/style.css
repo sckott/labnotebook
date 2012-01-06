@@ -6,7 +6,7 @@ html {
 }
 
 html, body{
-	font-family: 'Lato', Helvetica, Arial;
+	font-family: 'Lato', Helvetica, Calibri;
 	padding: 0 0 0 0;
 	margin: 0 0 0 0;
 }
@@ -17,7 +17,7 @@ pre, code{
 }
 
 .site-title{
-	color: #8B0000;
+	color: #002A8D;
 	font-weight: bold;
 }
 
@@ -26,7 +26,7 @@ pre, code{
 }
 
 a{
-	color: #8B0000;
+	color: #002A8D;
 	text-decoration: none;
 }
 

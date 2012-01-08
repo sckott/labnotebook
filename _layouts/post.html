@@ -7,6 +7,13 @@ layout: default
 	<div class='nav'>
 	{% include menu.html %}
 	</div>
+	
+	<div id="carrington-subscribe" class="widget">
+      <h2 class="widget-title">Subscribe</h2>
+      <a class="feed alignleft" title="RSS 2.0 feed for posts" rel="alternate" href="http://feeds.feedburner.com/github/koCP">
+      <img src="/images/rss-button.gif" alt="latest posts" title="latest posts">
+      </a>
+    </div>
 
 	<h2>About this post</h2>
 	<div class="metadata"><b>Written by</b> {{ page.author }}<br /><b>Posted on</b> {{ page.date | date_to_string }}{% if page.last_updated %}, last updated on {{ page.last_updated | date_to_string }}{% endif %}<br /><b>Summary:</b> {{ page.abstract }}{% if page.tags && page.tags != empty %}<br /><b>Tags:</b> {% for tag in page.tags %}<span class='tag'>{{ tag | array_to_sentence_string }}</span>{% endfor %}{% endif %}</div>

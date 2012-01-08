@@ -37,7 +37,7 @@
 		
 			<item>
 				<title>Evolution in Agriculture - my #SciFund video</title>
-				<description>&lt;p&gt;[youtube=http://www.youtube.com/watch?v=W1mQgK6xFn0]&lt;/p&gt;</description>
+				<description>&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/W1mQgK6xFn0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</description>
 				<published>Thu Nov 10 00:00:00 -0600 2011</published>
 				<link>http://schamberlain.github.com/labnotebook/2011/11/10/evolution-in-agriculture-my-scifund-video/index.html</link>
 			</item>

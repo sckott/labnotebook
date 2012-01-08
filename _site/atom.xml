@@ -4,7 +4,7 @@
  <title></title>
  <link href="http://schamberlain.github.com/labnotebook/atom.xml" rel="self"/>
  <link href="http://schamberlain.github.com/labnotebook"/>
- <updated>2012-01-08T09:48:31-06:00</updated>
+ <updated>2012-01-08T09:51:37-06:00</updated>
  <id>http://schamberlain.github.com/labnotebook</id>
 
  
@@ -57,7 +57,7 @@
    <link href="http://schamberlain.github.com/labnotebook/2011/11/10/evolution-in-agriculture-my-scifund-video/index.html"/>
    <updated>2011-11-10T00:00:00-06:00</updated>
    <id>http://schamberlain.github.com/labnotebook/2011/11/10/evolution-in-agriculture-my-scifund-video/evolution-in-agriculture-my-scifund-video</id>
-   <content type="html">&lt;p&gt;[youtube=http://www.youtube.com/watch?v=W1mQgK6xFn0]&lt;/p&gt;</content>
+   <content type="html">&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/W1mQgK6xFn0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</content>
 
 
 

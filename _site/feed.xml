@@ -11,6 +11,15 @@
 
 &lt;p&gt;Perhaps what we need is a &lt;a href='https://github.com/'&gt;GitHub&lt;/a&gt; for science publishing. It would be all open access, would provide version control so that papers could be continually updated, and you can drill down into the data directly from figures. And of course, the code could all be hosted at this site.&lt;/p&gt;</description>
 				<published>Sun Jan 08 00:00:00 -0600 2012</published>
+				<link>http://schamberlain.github.com/labnotebook/2012/01/08/testing-twitterfeed/</link>
+			</item>
+		
+			<item>
+				<title>Self publishing</title>
+				<description>&lt;p&gt;What if scientists just published their papers after peer review on their own websites? Authors (&lt;a href='http://craphound.com/?p=3672'&gt;Cory Doctorow&lt;/a&gt;), musicians (&lt;a href='http://www.rollingstone.com/music/news/wilco-to-self-release-the-whole-love-in-september-20110629'&gt;Wilco&lt;/a&gt;), and comedians (&lt;a href='https://buy.louisck.net/'&gt;Louis C.K.&lt;/a&gt;) are starting to do this in small numbers, and having some sucess. They don&amp;#8217;t need peer review, but perhaps a site could be started where authors could solicit reviewers. Self publishing would allow scientists to make everything free - papers, data, figures - everything.&lt;/p&gt;
+
+&lt;p&gt;Perhaps what we need is a &lt;a href='https://github.com/'&gt;GitHub&lt;/a&gt; for science publishing. It would be all open access, would provide version control so that papers could be continually updated, and you can drill down into the data directly from figures. And of course, the code could all be hosted at this site.&lt;/p&gt;</description>
+				<published>Sun Jan 08 00:00:00 -0600 2012</published>
 				<link>http://schamberlain.github.com/labnotebook/2012/01/08/self-publishing/</link>
 			</item>
 		
@@ -159,20 +168,6 @@ Here is the output from the simulation:&lt;/p&gt;
 &lt;/ul&gt;</description>
 				<published>Thu Oct 06 00:00:00 -0500 2011</published>
 				<link>http://schamberlain.github.com/labnotebook/2011/10/06/thursday-6/index.html</link>
-			</item>
-		
-			<item>
-				<title>Tuesday</title>
-				<description>&lt;ul&gt;
-	&lt;li&gt;Updated notes about manuscript on latitudinal gradients in biodiversity, based on &lt;a href=&quot;http://schamber.wordpress.com/2011/10/04/rice-eeb-seminar-by-john-wiens-sep-26-2011/&quot; target=&quot;_blank&quot;&gt;seminar here by John Weins&lt;/a&gt;&lt;/li&gt;
-	&lt;li&gt;Drafted &lt;a href=&quot;http://innge.net/&quot; target=&quot;_blank&quot;&gt;&lt;span class=&quot;caps&quot;&gt;INNGE&lt;/span&gt;&lt;/a&gt; blog post&lt;/li&gt;
-	&lt;li&gt;Working on conditionality MA manuscript&lt;/li&gt;
-	&lt;li&gt;Added &lt;a href=&quot;http://figshare.com/figures/index.php/Ocotillo_ants&quot; target=&quot;_blank&quot;&gt;first figure&lt;/a&gt; to FigShare on a failed project involving ocotillo and ants in Tucson, AZ&lt;/li&gt;
-	&lt;li&gt;Recorded data on bowl trap samples of bees from helianthus research (nice podcast on quitting from the Freakonomics folks, inspired me to quit something!)&lt;/li&gt;
-	&lt;li&gt;Almost finished tutorial for dryad, an R package to interface with the Dryad data repository. Collaborate on the code dev &lt;a href=&quot;https://github.com/cboettig/dryad&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. Tutorial is &lt;a href=&quot;http://ropensci.org/tutorials/dryad-tutorial/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. Dryad is &lt;a href=&quot;http://datadryad.org/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;</description>
-				<published>Tue Oct 04 00:00:00 -0500 2011</published>
-				<link>http://schamberlain.github.com/labnotebook/2011/10/04/tuesday-3/index.html</link>
 			</item>
 		
 	</channel>

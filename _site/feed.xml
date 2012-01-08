@@ -6,10 +6,8 @@
 		<link>http://schamberlain.github.com/labnotebook</link>
 		
 			<item>
-				<title>Self publishing</title>
-				<description>&lt;p&gt;What if scientists just published their papers after peer review on their own websites? Authors (&lt;a href='http://craphound.com/?p=3672'&gt;Cory Doctorow&lt;/a&gt;), musicians (&lt;a href='http://www.rollingstone.com/music/news/wilco-to-self-release-the-whole-love-in-september-20110629'&gt;Wilco&lt;/a&gt;), and comedians (&lt;a href='https://buy.louisck.net/'&gt;Louis C.K.&lt;/a&gt;) are starting to do this in small numbers, and having some sucess. They don&amp;#8217;t need peer review, but perhaps a site could be started where authors could solicit reviewers. Self publishing would allow scientists to make everything free - papers, data, figures - everything.&lt;/p&gt;
-
-&lt;p&gt;Perhaps what we need is a &lt;a href='https://github.com/'&gt;GitHub&lt;/a&gt; for science publishing. It would be all open access, would provide version control so that papers could be continually updated, and you can drill down into the data directly from figures. And of course, the code could all be hosted at this site.&lt;/p&gt;</description>
+				<title>Testing twitterfeed</title>
+				<description>&lt;p&gt;Does this work on twitterfeed?&lt;/p&gt;</description>
 				<published>Sun Jan 08 00:00:00 -0600 2012</published>
 				<link>http://schamberlain.github.com/labnotebook/2012/01/08/testing-twitterfeed/</link>
 			</item>

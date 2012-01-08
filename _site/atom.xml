@@ -4,20 +4,18 @@
  <title></title>
  <link href="http://schamberlain.github.com/labnotebook/atom.xml" rel="self"/>
  <link href="http://schamberlain.github.com/labnotebook"/>
- <updated>2012-01-08T11:23:46-06:00</updated>
+ <updated>2012-01-08T11:25:40-06:00</updated>
  <id>http://schamberlain.github.com/labnotebook</id>
 
  
  
  
  <entry>
-   <title>Self publishing</title>
+   <title>Testing twitterfeed</title>
    <link href="http://schamberlain.github.com/labnotebook/2012/01/08/testing-twitterfeed/"/>
    <updated>2012-01-08T00:00:00-06:00</updated>
    <id>http://schamberlain.github.com/labnotebook/2012/01/08/testing-twitterfeed</id>
-   <content type="html">&lt;p&gt;What if scientists just published their papers after peer review on their own websites? Authors (&lt;a href='http://craphound.com/?p=3672'&gt;Cory Doctorow&lt;/a&gt;), musicians (&lt;a href='http://www.rollingstone.com/music/news/wilco-to-self-release-the-whole-love-in-september-20110629'&gt;Wilco&lt;/a&gt;), and comedians (&lt;a href='https://buy.louisck.net/'&gt;Louis C.K.&lt;/a&gt;) are starting to do this in small numbers, and having some sucess. They don&amp;#8217;t need peer review, but perhaps a site could be started where authors could solicit reviewers. Self publishing would allow scientists to make everything free - papers, data, figures - everything.&lt;/p&gt;
-
-&lt;p&gt;Perhaps what we need is a &lt;a href='https://github.com/'&gt;GitHub&lt;/a&gt; for science publishing. It would be all open access, would provide version control so that papers could be continually updated, and you can drill down into the data directly from figures. And of course, the code could all be hosted at this site.&lt;/p&gt;</content>
+   <content type="html">&lt;p&gt;Does this work on twitterfeed?&lt;/p&gt;</content>
 
 
 

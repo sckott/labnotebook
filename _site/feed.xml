@@ -6,6 +6,15 @@
 		<link>http://schamberlain.github.com/labnotebook</link>
 		
 			<item>
+				<title>Self publishing</title>
+				<description>&lt;p&gt;What if scientists just published their papers after peer review on their own websites? Authors (&lt;a href='http://craphound.com/?p=3672'&gt;Cory Doctorow&lt;/a&gt;), musicians (&lt;a href='http://www.rollingstone.com/music/news/wilco-to-self-release-the-whole-love-in-september-20110629'&gt;Wilco&lt;/a&gt;), and comedians (&lt;a href='https://buy.louisck.net/'&gt;Louis C.K.&lt;/a&gt;) are starting to do this in small numbers, and having some sucess. They don&amp;#8217;t need peer review, but perhaps a site could be started where authors could solicit reviewers. Self publishing would allow scientists to make everything free - papers, data, figures - everything.&lt;/p&gt;
+
+&lt;p&gt;Perhaps what we need is a &lt;a href='https://github.com/'&gt;GitHub&lt;/a&gt; for science publishing. It would be all open access, would provide version control so that papers could be continually updated, and you can drill down into the data directly from figures. And of course, the code could all be hosted at this site.&lt;/p&gt;</description>
+				<published>Sun Jan 08 00:00:00 -0600 2012</published>
+				<link>http://schamberlain.github.com/labnotebook/2012/01/08/self-publishing/</link>
+			</item>
+		
+			<item>
 				<title>We (rOpenSci) wond 3rd place in the PLoS-Mendeley Binary Battle!</title>
 				<description>&lt;p&gt;We entered two of our packages for integrating with PLoS Journals (rplos) and Mendeley (RMendeley) in the &lt;a href='http://dev.mendeley.com/api-binary-battle'&gt;Mendeley-PLoS Binary Battle&lt;/a&gt;.  Get them at GitHub (&lt;a href='https://github.com/ropensci/rplos'&gt;rplos&lt;/a&gt;, &lt;a href='https://github.com/ropensci/RMendeley'&gt;RMendeley&lt;/a&gt;).&lt;/p&gt;
 
@@ -164,18 +173,6 @@ Here is the output from the simulation:&lt;/p&gt;
 &lt;/ul&gt;</description>
 				<published>Tue Oct 04 00:00:00 -0500 2011</published>
 				<link>http://schamberlain.github.com/labnotebook/2011/10/04/tuesday-3/index.html</link>
-			</item>
-		
-			<item>
-				<title>Rice EEB seminar by John Wiens, Sep 26, 2011</title>
-				<description>&lt;ul&gt;
-	&lt;li&gt;Weins suggests that species interactions are important for evolution of climatic tolerances (i.e., climatic niche conservatism)&lt;/li&gt;
-	&lt;li&gt;pseudo-quote from Weins: &amp;#8220;species interactions are important in constraining evolutionary change, not just driving evolutionary change&amp;#8221;&lt;/li&gt;
-	&lt;li&gt;climatic niche conservatism is one way that links species interaction outcomes and species richness&amp;#8230;.&lt;/li&gt;
-	&lt;li&gt;note to self, while talk was going: although more species richness in tropics in general, it may be that more functional diversity is found in temperate areas, &lt;span class=&quot;caps&quot;&gt;BECAUSE&lt;/span&gt; Weins shows that in many clades there is more diversity of deep nodes in temperate areas than in tropical areas (few clades are found in tropical areas in his data, but those that are have a lot of species).&lt;/li&gt;
-&lt;/ul&gt;</description>
-				<published>Tue Oct 04 00:00:00 -0500 2011</published>
-				<link>http://schamberlain.github.com/labnotebook/2011/10/04/rice-eeb-seminar-by-john-wiens-sep-26-2011/index.html</link>
 			</item>
 		
 	</channel>

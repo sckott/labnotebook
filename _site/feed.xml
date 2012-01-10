@@ -6,6 +6,41 @@
 		<link>http://schamberlain.github.com/labnotebook</link>
 		
 			<item>
+				<title>Tuesday Jan 10, 2012 Notes</title>
+				<description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Recology blog:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;add Pascal as an author&lt;/li&gt;
+
+&lt;li&gt;add rOpenSci image button with link to About sidebar&lt;/li&gt;
+
+&lt;li&gt;Fix category links!!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Videos for Journal of Ecology blog: need to figure out why guest voice is super quiet. Perhaps something wrong with the .mov file extension when importing to YouTube.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Edit &lt;code&gt;loghistplot&lt;/code&gt; function &lt;a href='http://schamberlain.github.com/2012/01/logistic-regression-barplot-fig/'&gt;here&lt;/a&gt; to include more options&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;allow users to manipulate colors&lt;/li&gt;
+
+&lt;li&gt;include points along with histogram&lt;/li&gt;
+
+&lt;li&gt;more?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description>
+				<published>Tue Jan 10 00:00:00 -0600 2012</published>
+				<link>http://schamberlain.github.com/labnotebook/2012/01/10/Tuesday-Jan102012/</link>
+			</item>
+		
+			<item>
 				<title>Testing twitterfeed</title>
 				<description>&lt;p&gt;Does this work on twitterfeed?&lt;/p&gt;</description>
 				<published>Sun Jan 08 00:00:00 -0600 2012</published>
@@ -146,26 +181,6 @@ Here is the output from the simulation:&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Bottom line: It seems that indeed, an outroup on a long branch does make model fit worse. &lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</description>
 				<published>Fri Oct 07 00:00:00 -0500 2011</published>
 				<link>http://schamberlain.github.com/labnotebook/2011/10/07/friday-simulations-on-phylogeny-outgroup-influence-on-phylogenetic-meta-analysis-model-fit/index.html</link>
-			</item>
-		
-			<item>
-				<title>Thursday</title>
-				<description>&lt;ul&gt;
-	&lt;li&gt;Edited rOpenSci dryad tutorial for out website: &lt;a href=&quot;http://ropensci.org/&quot; target=&quot;_blank&quot;&gt;http://ropensci.org/&lt;/a&gt;&lt;/li&gt;
-	&lt;li&gt;Abstract for a paper on meta-analysis: what are the strengths and weaknesses of the different methods for phylogenetic meta-analysis&lt;/li&gt;
-	&lt;li&gt;Posted Ed Goodwin&amp;#8217;s talk on regular expressions in R to &lt;a href=&quot;http://r-ecology.blogspot.com/2011/10/r-tutorial-on-regular-expressions-regex.html&quot; target=&quot;_blank&quot;&gt;my blog&lt;/a&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span class=&quot;caps&quot;&gt;ASN&lt;/span&gt; student research award notice out &lt;a href=&quot;http://www.asnamnat.org/node/127&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;, due end of January, 2012: what to write about?&lt;/li&gt;
-&lt;ul&gt;
-	&lt;li&gt;additional work on conditionality meta-analysis, incorporating covariates, or incorporating phylogeny for all taxa&lt;/li&gt;
-&lt;/ul&gt;
-	&lt;li&gt;Need to figure out how to do image analysis on both (any ideas from the world on counting pollen grains and trichomes?):&lt;/li&gt;
-&lt;ul&gt;
-	&lt;li&gt;pollen grains on sunflower stigmas, and&lt;/li&gt;
-	&lt;li&gt;glandular trichomes on leaf discs&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/ul&gt;</description>
-				<published>Thu Oct 06 00:00:00 -0500 2011</published>
-				<link>http://schamberlain.github.com/labnotebook/2011/10/06/thursday-6/index.html</link>
 			</item>
 		
 	</channel>
